@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Antriksh</h2>
 
-<img align='right' src="https://giphy.com/gifs/memecandy-PiQejEf31116URju4V" width="230">
+<img align='right' src="https://tenor.com/view/beavis-computer-shitposting-gif-7431307" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
