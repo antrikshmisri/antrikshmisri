@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Antriksh</h2>
 
-<img align='right' src="https://tenor.com/view/beavis-computer-shitposting-gif-7431307" width="230">
+<img align='right' src="https://www.testbytes.net/wp-content/uploads/2019/06/Untitled-27.png" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -58,7 +58,6 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshmisri&show_icons=true)
 
 <br><br>
 
