@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Python | C# | C | C++ | Dart
+- 💻 &nbsp; Python | C# | C | Dart
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node | Express | Flask
 
