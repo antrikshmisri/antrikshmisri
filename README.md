@@ -28,6 +28,8 @@
 
 - 📱 &nbsp; Flutter
 
+- 🛢 &nbsp; MySQL | MongoDB
+
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
