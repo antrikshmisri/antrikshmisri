@@ -44,7 +44,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; React | Firebase | AWS
+- 🔧 &nbsp; React | AI/ML | AWS
 
 <hr>
 
