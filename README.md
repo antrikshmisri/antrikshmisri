@@ -52,7 +52,7 @@
 
 <br/><br/>
 
-[![Antriksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antrikshmisri&show_icons=true&theme=gruvbox)](https://github.com/antrikshmisri)
+[![Antriksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antrikshmisri&show_icons=true&bg_color=90DEG,F1F2B5,135058)](https://github.com/antrikshmisri)
 
 <br/>
 
