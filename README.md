@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; Python | C# | C | Dart
+- 💻 &nbsp; Python | C# 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node | Express | Flask
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node | Express 
 
 - 🎮 &nbsp; Unity Engine | Blender | Substance Painter
 
