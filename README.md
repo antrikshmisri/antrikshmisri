@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; Python | C# 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node | Express 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node | Express | React
 
 - 🎮 &nbsp; Unity Engine | Blender | Substance Painter
 
@@ -44,7 +44,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; React | AI/ML | AWS
+- 🔧 &nbsp; AI/ML | AWS
 
 <hr>
 
