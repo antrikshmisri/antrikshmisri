@@ -52,6 +52,7 @@
 
 <br/><br/>
 
+![](https://komarev.com/ghpvc/?username=antrikshmsiri&style=flat-square)
 <span align="left">[![Antriksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antrikshmisri&count_private=true&show_icons=true&bg_color=90DEG,485563,29323c&text_color=ffffff)](https://github.com/antrikshmisri)</span> 
 <span align="right">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antrikshmisri)](https://github.com/antrikshmisri?tab=repositories)</span> 
 
