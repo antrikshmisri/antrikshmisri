@@ -1,10 +1,9 @@
 <img src="https://i.imgur.com/d3eGy0w.png" />
 
-<img align='right' src="https://www.testbytes.net/wp-content/uploads/2019/06/Untitled-27.png" width="230">
 
 ![](https://komarev.com/ghpvc/?username=antrikshmsiri&style=flat-square)
-
-<h3> 👨🏻•💻 About Me </h3>
+<br>
+<img src="https://i.imgur.com/l7nOQF0.png" height="100"/>
 
 
 
@@ -18,7 +17,7 @@
 
 
 
-<h3>🛠 Tech Stack</h3>
+<img src="https://i.imgur.com/D8IJ5XS.png" height="100" />
 
 
 
@@ -44,7 +43,7 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<img src="https://i.imgur.com/NAD1hwv.png" height="100" />
 
 - 🔧 &nbsp; AI/ML | AWS
 
