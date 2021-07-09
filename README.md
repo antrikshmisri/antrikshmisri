@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Antriksh</h2>
+<img src="https://i.imgur.com/d3eGy0w.png" />
 
 <img align='right' src="https://www.testbytes.net/wp-content/uploads/2019/06/Untitled-27.png" width="230">
 
