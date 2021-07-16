@@ -21,9 +21,9 @@
 
 
 
-- 💻 &nbsp; Python | C# 
+- 💻 &nbsp; Python | C# | JavaScript
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node | Express | React
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Node | Express | React | Next
 
 - 🎮 &nbsp; Unity Engine | Blender | Substance Painter
 
