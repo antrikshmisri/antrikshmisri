@@ -11,9 +11,9 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at MIT Pune.
 
-- 🌱 &nbsp; Learning about AI and ML.
+- ⚛️ &nbsp; Developing Web Applications.
 
-- ✍️ &nbsp; Pursuing Game Development as hobbies/side hustles.
+- ✍️ &nbsp; Creating packages as side hustle/hobby.
 
 
 
