@@ -23,13 +23,13 @@
 
 - 💻 &nbsp; Python | C# | JavaScript
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node | Express | React | Next
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Node | Express | React | Next | Firebase
 
 - 🎮 &nbsp; Unity Engine | Blender | Substance Painter
 
 - 📱 &nbsp; Flutter
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL | MongoDB | Firestore
 
 <!--
 
