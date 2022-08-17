@@ -41,38 +41,7 @@
 
 -->
 
-
-
-<img src="https://i.imgur.com/NAD1hwv.png" height="100" />
-
-- 🔧 &nbsp; AI/ML | AWS
-
-<hr>
-
-
-
-<br/><br/>
-
-<span align="left">[![Antriksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antrikshmisri&count_private=true&show_icons=true&bg_color=90DEG,485563,29323c&text_color=ffffff)](https://github.com/antrikshmisri)</span>
-</br>
-
-
-<span align="right">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antrikshmisri)](https://github.com/antrikshmisri?tab=repositories)</span> 
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-
-
-
-
-
-<hr>
-
-
+<hr/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
