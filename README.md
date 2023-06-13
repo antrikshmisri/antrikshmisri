@@ -3,10 +3,10 @@
 
 ![](https://komarev.com/ghpvc/?username=antrikshmsiri&style=flat-square)
 <br>
-<img src="https://i.imgur.com/l7nOQF0.png" height="100"/>
 
 
 
+## About Me
 - 🤔 &nbsp; Exploring new technologies and improving known ones.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at MIT Pune.
@@ -17,9 +17,9 @@
 
 
 
-<img src="https://i.imgur.com/D8IJ5XS.png" height="100" />
 
 
+## Tech Stack
 
 - 💻 &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
